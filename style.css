@@ -1,0 +1,169 @@
+.card {
+    width: 350px;
+    min-height: 230px;
+    border: 5px solid grey;
+    color: whitesmoke;
+    background-image: url("https://wallpaperaccess.com/full/788923.jpg");
+    /*background-color: blue;*/
+
+}
+.picture {
+    width: 350px;
+    height: 150px;
+}
+.picture-section {
+    height: 150px;
+    position: relative;
+}
+.update {
+    background-color:#2D3748;
+    color:white;
+    position: absolute;
+    padding: 4px 8px;
+}
+.company {
+    color:white;
+    position: absolute;
+    bottom:0;
+    right:0;
+    padding: 4px 8px;
+}
+.info {
+    padding: 8px;
+    color: #2D3748;
+}
+.listing {
+    display: flex;
+    justify-content:space-between;
+    align-items:baseline;
+    margin-bottom:4px;
+}
+.price {
+    font-size: 24px;
+    font-weight:bold;
+}
+.address{
+    font-weight:bold;
+    margin-bottom:3px;
+    color:whitesmoke;
+}
+.type {
+    font-size: 12px;
+}
+.card {
+    width: 350px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card2 {
+    border: 5px solid grey;
+    width: 350px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://t4.ftcdn.net/jpg/02/87/65/03/360_F_287650363_FMJQVBOpG370B9ix4CuP3UdRLcF4RD9X.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.card3 {
+    border: 5px solid grey;
+    width: 350px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://i.ytimg.com/vi/iFKfLKoMKjc/maxresdefault.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.card4 {
+    border: 5px solid grey;
+    width: 350px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/99/35/silhouette-of-city-with-orange-background-vector-8089935.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.card5 {
+    border: 5px solid grey;
+    width: 350px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://wallpaper.dog/large/20345785.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.cardA{
+    border: 5px solid grey;
+    width: 150px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://t4.ftcdn.net/jpg/04/72/54/21/360_F_472542121_uo22uEpb1utakN1f53W2funbUUZCoUV4.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.picture2 {
+    width: 150px;
+    height: 150px;
+}
+.card-area {
+    flex-wrap:wrap;
+    display:flex;
+}
+.cardB{
+    border: 5px solid grey;
+    width: 150px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://img.lovepik.com/background/20211030/medium/lovepik-red-wooden-board-textured-cellphone-wallpaper-background-image_400342188.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.cardC{
+    border: 5px solid grey;
+    width: 150px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://img.pikbest.com/backgrounds/20200318/fog-or-smoke-isolated-on-dark-background-v_1724771jpg!bw700");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.cardD{
+    border: 5px solid grey;
+    width: 150px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://image.shutterstock.com/mosaic_250/2731759/529326181/stock-photo-wood-texture-background-wood-planks-529326181.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
+.cardE{
+    border: 5px solid grey;
+    width: 150px;
+    min-height: 340px;
+    border-bottom: 4px solid #006AFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    background-image: url("https://cdn.mos.cms.futurecdn.net/4eeybmSBubWpR9mzfDy7YU-320-80.jpg");
+    /*background-color: blue;*/
+    color:whitesmoke;
+}
